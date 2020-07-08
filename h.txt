@@ -1,0 +1,433 @@
+    1  python
+    2  sudo apt install python
+    3  python
+    4  sudo add-apt-repository ppa:deadsnakes/ppa
+    5  sudo apt-get update
+    6  sudo apt-get install python3.6
+    7  sudo apt-get install python3.7
+    8  sudo apt install python3-pip
+    9  sudo update-alternatives --install /usr/bin/python3 /usr/bin/python3.6 1
+   10  python
+   11  python3.6
+   12  pip install panda
+   13  python-pip
+   14  sudo apt install python-pip
+   15  python
+   16  pip install pandas
+   17  python
+   18  cd Downloads
+   19  pythons
+   20  python
+   21  init 0
+   22  /usr/lib/nux/unity_support_test -p
+   23  /lib/nux/unity_support_test -p
+   24  unity_support_test -p
+   25  /usr/lib/nux/unity_support_test -p
+   26  init 0
+   27  os.wcd() cd
+   28  cd
+   29  listdir
+   30  help
+   31  pwd
+   32  help
+   33  dirs
+   34  cd
+   35  history
+   36  ls
+   37  ls ..
+   38  ls .
+   39  ls..
+   40  ls ..
+   41  ls /
+   42  ls
+   43  ls /home/
+   44  ls /home/user/
+   45  ls /home/jokimazi/
+   46  ls /home/jokimazi/Downloads/
+   47  ls ..
+   48  ls /home/jokimazi/Downloads/..
+   49  ls /home/sc/
+   50  pwd
+   51  ls
+   52  ls /home/jokimazi/Desktop/
+   53  ls /home/jokimazi/Desktop/.
+   54  ls /home/jokimazi/Downloads/
+   55  cd  Desktop
+   56  ..
+   57  cd ..
+   58  cd  Desktop
+   59  history
+   60  ls
+   61  pwd
+   62  cd .
+   63  cd 428
+   64  cd new 428
+   65  cd new
+   66  new cd 428
+   67  mkdir 428
+   68  cd 428
+   69  mkdir ABC
+   70  mkdir abc
+   71  ABc
+   72  mkdir Abc
+   73  mkdir aBC
+   74  mkdir abC
+   75  pwd
+   76  ls
+   77  mkdir aBc
+   78  ls
+   79  mkdir ABc
+   80  ls
+   81  mkdir AbC
+   82  ls
+   83  ..
+   84  cd ..
+   85  ls | ls | ls | ls | cd ..
+   86  ls | head
+   87  ls | tail
+   88  cd ..
+   89  cd /etc
+   90  ls
+   91  ls |head
+   92  ls | tail
+   93  ls |head3
+   94  ls |head 3
+   95  ls |head.3
+   96  ls | head -n 3
+   97  ls | head -c 5
+   98  ls | head -n 3
+   99  ls | head -n | wc
+  100  ls | head -n | line
+  101  ls | head -n | wcv -w
+  102  ls | head -n | wcv -l
+  103  ls | head -n | wc -w
+  104  ls | head -n | wc -l
+  105  ls | head -n 3
+  106  ls | head -n | wc
+  107  ls | head -n 3 | wc
+  108  ls | head -n 3 | wc -l
+  109  ls | head -n 3 | wc -c
+  110  ls | head -n 3 | wc -w
+  111  ls | wc -c
+  112  cd
+  113  ls Desktop/
+  114  ls | wc -c
+  115  cdpwd
+  116  pwd
+  117  ls
+  118  cd Desktop
+  119  ls | wc -m
+  120  wc help
+  121  wc --help
+  122  wc -help
+  123  wc --help
+  124  java
+  125  sudo apt install openjdk-8-jre-headless
+  126  java
+  127  java -ersion
+  128  java -version
+  129  java10
+  130  jshell
+  131  python
+  132  python3
+  133  sudo apt install openjdk-11-jdk-headless
+  134  exit() python
+  135  python3
+  136  cd
+  137  ls
+  138  pwd
+  139  a=
+  140  a=123
+  141  a=
+  142  echo a
+  143  echo $a
+  144  a=123
+  145  echo $a
+  146  c="Hello World"
+  147  echo c
+  148  echo $c
+  149  echo $c $a
+  150  echo $c, $a
+  151  echo 
+  152  $d = ","
+  153  d = ","
+  154  d =","
+  155  d=","
+  156  echo $d
+  157  echo date
+  158  echo $date
+  159  echo --date
+  160  echo ~date
+  161  d=date|echo date
+  162  d=date|echo $d
+  163  e=date|echo $e
+  164  date
+  165  echo 'date'
+  166  echo `date`
+  167  a=123
+  168  b=44
+  169  c=$123+$44
+  170  echo $c
+  171  c=123+44
+  172  echo $c
+  173  echo (($a+$b))
+  174  echo $(($a+$b))
+  175  echo "$a+$b | bc
+  176  echo "$a+$b" | bc
+  177  echo
+  178  /
+  179  bc
+  180  echo "$a+$b | bc
+  181  echo "$a+$b" | bc
+  182  echo
+  183  /
+  184  bc
+  185  echo $(($a+$b))
+  186  a=123
+  187  b=44
+  188  echo $(($a+$b))
+  189  ecjo expr $a+$b
+  190  echo expr $a+$b
+  191  echo `expr $a+$b`
+  192  echo `expr` $a+$b
+  193  echo expr $a+$b
+  194  expr $a+$b
+  195  expr `$a+$b`
+  196  echo $(($a+$b))
+  197  pwd
+  198  ls
+  199  echo $(($a+$b))
+  200  echo $((a+b)) EUR
+  201  echo $((a+b)) EUR > a.txt
+  202  ls
+  203  ls -l
+  204  ls -l a.txt
+  205  cat a.txt
+  206  history
+  207  history >h.txt
+  208  cat h.txt
+  209  ls
+  210  init 0
+  211  ls
+  212  ls -tl
+  213  nano
+  214  ls -l
+  215  ls -lt
+  216  nano text1.txt 
+  217  nano
+  218  nano text1.txt 
+  219  nano abc1.txt 
+  220  ls -tl
+  221  ls -la
+  222  mkdir ABC
+  223  ls -lt
+  224  ls -lta
+  225  cd ABC
+  226  ls -lta
+  227  pwd
+  228  ls -lta
+  229  cp ../abc.txt ../abc2.txt
+  230  ls /ABC
+  231  ls ../ABC
+  232  cd Documents
+  233  ..
+  234  cd ..
+  235  ls
+  236  cd Documents
+  237  cp ../abc.txt ..ABC/abc2.txt
+  238  ls
+  239  cp ../abc.txt ..ABC/abc2.txt
+  240  ls ..ABC
+  241  ls ../ABC
+  242  cp ../abc.txt ..ABC/abc2.txt
+  243  cp ../abc.txt ../ABC/abc2.txt
+  244  ls ../ABC
+  245  ls -a../ABC
+  246  ls -la
+  247  cd ..
+  248  pwd
+  249  cd ..
+  250  pwd
+  251  cd ..
+  252  pwd
+  253  ls -lta
+  254  ls -la
+  255  cd ..
+  256  pwd
+  257  /
+  258  ../
+  259  cd
+  260  pwd
+  261  ls -l
+  262  ls -l abc.txt
+  263  ls -l abc2.txt
+  264  hexdump -C abc.txt
+  265  hexdump -C abc2.txt
+  266  hexdump -C abc1.txt
+  267  xxd -b  abc1.txt
+  268  xxd abc1.txt
+  269  lss
+  270  whereis ls
+  271  thereis ls
+  272  /usr/share/man/man1/ls.1.gz
+  273  ls -l /bin/ls
+  274  /bins/ls/
+  275  /bins/ls
+  276  /bin/ls
+  277  ls -l /bin/ls
+  278  cat /bin/ls
+  279  echo $PATH
+  280  cd
+  281  nano first_script.sh
+  282  ls -l
+  283  ls =lt
+  284  ls -lt
+  285  first_script.sh
+  286  ./first_script.sh
+  287  $PATH=$PATH:~
+  288  $PATH=$PATH:./
+  289  PATH=$PATH:./
+  290  PATH=$PATH:~
+  291  $PATH
+  292  ls $PATH
+  293  ls $PATH -l
+  294  first_script.sh
+  295  chmod 744 first_script.sh 
+  296  ls -l first_script.sh 
+  297  first_script.sh 
+  298  ls
+  299  ls ./DEF
+  300  history
+  301  ls -lt
+  302  whereis first_script.sh
+  303  nano first_script.sh 
+  304  cd
+  305  git clone https://github.com/TomsNimanis/EDIBO
+  306  sudo apt install git
+  307  git clone https://github.com/TomsNimanis/EDIBO
+  308  ls
+  309  cd EDIBO/
+  310  ls -lt
+  311  pwd
+  312  nano git-upload
+  313  ls
+  314  ls -lt
+  315  chmod 740 git-upload
+  316  PATH=$PATH~
+  317  git-upload
+  318  PATH=$PATH:~
+  319  ls
+  320  git-upload
+  321  nano git-upload
+  322  git-upload
+  323  nano git-upload
+  324  git-upload
+  325  cd
+  326  cd ../../
+  327  echo $jokimazi
+  328  echo $JOKIMAZI
+  329  echo $USER
+  330  echo $HOME
+  331  cd $HOME
+  332  pwd
+  333  date
+  334  echo $PS1
+  335  PS1=$&
+  336  PS1=$
+  337  asdad
+  338  PS1=>>>>>
+  339  PS1=>>>
+  340  PS1=>>
+  341  PS1=
+  342  ws
+  343  PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$
+  344  PS1=$
+  345  PS1=$""
+  346  PS1=$ ""
+  347  PS1=''
+  348  PS1='$ '
+  349  pwd
+  350  ls
+  351  ls Desktop/
+  352  whereis pic
+  353  whereis pico
+  354  man pico
+  355  pwd
+  356  ls -l /user/bin/ | wc -l
+  357  ls -l /usr/bin/ | wc -l
+  358  ls -l /usr/bin/pico
+  359  -l /etc/alternatives/pico
+  360  -ls /etc/alternatives/pico
+  361  ls -l /etc/alternatives/pico
+  362  ls -l /bin/nano
+  363  pwd
+  364  vim
+  365  sudo apt install vim
+  366  vim
+  367  vim 01.sh
+  368  ls
+  369  ls -l
+  370  chmod 740 01.sh 
+  371  ls -l
+  372  chmod 744 01.sh 
+  373  ls -l
+  374  01.sh
+  375  nano 01.sh
+  376  01.sh
+  377  chmod 740 01.sh 
+  378  01.sh
+  379  chmod 700 01.sh 
+  380  chmod +x 01.sh 
+  381  ls -l
+  382  ls
+  383  ls -l
+  384  vim .
+  385  vim /
+  386  mc 
+  387  sudo apt install mc
+  388  mc
+  389  123
+  390  pwd
+  391  01.sh
+  392  ls
+  393  01.sh
+  394  ls - l 01.sh
+  395  ls -l 01.sh
+  396  viom 01.sh
+  397  vim 01.sh
+  398  01.sh
+  399  nano 01.sh
+  400  vim 01.sh
+  401  01.sh
+  402  vim 01.sh
+  403  01.sh
+  404  vim 01.sh
+  405  ./01.sh
+  406  time ./01.sh
+  407  for i in {0..5}; do echo "$i"; done
+  408  for date in {0..5}; do echo "$date"; done
+  409  for `date` in {0..5}; do echo "$date"; done
+  410  for i in {0..5}; do echo "`date`"; done
+  411  for i in {0..1000}; do echo "`date`"; done
+  412  for i in {0..5}; do echo "$((i*i))"; done
+  413  for i in {0..5}; do echo "$i * $i"; echo "$((i*i))"; done
+  414  for i in {0..5}; do echo "$i * $i" | echo "$((i*i))"; done
+  415  for i in {0..5}; do echo "$i $((i*i))"; done
+  416  for i in {0..5}; do echo "$i*$i $((i*i))"; done
+  417  for i in {0..5}; do echo "$i*$i $((i*i)) $((i*i*i))"; done
+  418  for i in {0..5}; do echo "$i $((i*i)) $((i*i*i))"; done
+  419  history
+  420  echo `history` >> h.txt
+  421  cat h.txt
+  422  echo `history` > h.txt
+  423  ca
+  424  cat h.txt
+  425  history
+  426  echo  `history` > h.txt
+  427  cat h.txt
+  428  history
+  429  echo  `history` > h.txt
+  430  cat h.txt
+  431  echo  `history` > h3.txt
+  432  cat h3.txt
+  433  history > h.txt
